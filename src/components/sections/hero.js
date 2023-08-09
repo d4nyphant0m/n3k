@@ -59,29 +59,25 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hallo, mein Name ist</h1>;
+  const two = <h2 className="big-heading">Daniel Mchitarjan.</h2>;
+  const three = <h3 className="big-heading">Hat mich gefreut euch im Liberte kennenzulernen!</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        Hier findet ihr mein Bewerbungsportfolio. Es ist eine sorgfältige Zusammenstellung meiner
+        Erfahrungen, Qualifikationen und Fähigkeiten. Durch dieses Portfolio könnt ihr einen
+        umfassenden Einblick in meine bisherigen Leistungen und Kompetenzen gewinnen. Es spiegelt
+        meine berufliche Entwicklung wider und zeigt Projekte und Aufgaben, bei denen ich maßgeblich
+        beteiligt war. Ich hoffe, dass ihr durch dieses Portfolio einen tieferen Einblick in meine
+        Fähigkeiten bekommt und bin gespannt auf euer Feedback.
+        <p>Viel Spaß beim Durchstöbern!</p>
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="mailto:mkhitarjan@gmx.de" target="_blank" rel="noreferrer">
+      In Kontakt treten?
     </a>
   );
 
