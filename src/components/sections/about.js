@@ -155,7 +155,7 @@ const About = () => {
 
             <p>
               Ich empfinde es als großes Privileg, Teil eines Unternehmens zu sein, bei dem ich an
-              vielen spannenden Projekten mitarbeiten darf. Meine Tätigkeit bei Nova Motors liegt
+              vielen spannenden Projekten mitarbeiten darf. Meine Tätigkeit bei Nova Gruppe liegt
               heute insbesondere in der Entwicklung von barrierefreien und inklusiven digitalen
               Produkten und Ergebnissen für eine breite Kundenbasis. Es erfüllt mich mit Stolz,
               einen Beitrag zur Schaffung von Produkten zu leisten, die allen Menschen zugänglich
